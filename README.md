@@ -8,4 +8,4 @@ The key documents of each stage submitted by students in the experiments designe
 
 We require the following details of the students' experiments:
 
-![Experimental flow chart](C:\Users\27826\Desktop\提交数据\Experimental flow chart.png)
+![Experimental flow chart]([C:\Users\27826\Desktop\提交数据\Experimental flow chart.png](https://github.com/Boomnana/fse2025-seet/blob/main/Experimental%20flow%20chart.png))
